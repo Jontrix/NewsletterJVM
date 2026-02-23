@@ -21,8 +21,9 @@ Desarrolla una página web usando HTML y CSS que permita a los usuarios suscribi
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: 
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Repositorio en GitHub: https://github.com/Jontrix/NewsletterJVM.git/
+
+Deploy: [https://jontrix.github.io/NewsletterJVM/](http://yomidev.github.io/newsletter/)
 ---
 
 ## 📝 Reflexión
